@@ -470,12 +470,12 @@ var _a, _b;
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return environment; });
 var environment = {
     production: true,
-    apiAddress: 'https://dnt-4pm.herokuapp.com/api',
-    baseAddress: 'https://dnt-4pm.herokuapp.com',
+    apiAddress: 'https://firstcart.herokuapp.com/api',
+    baseAddress: 'https://firstcart.herokuapp.com',
     cartName: 'cart',
     paymentGatewayUrl: 'https://test.payu.in/_payment',
-    successUrl: 'https://dnt-4pm.herokuapp.com/api/store/paymentstatus',
-    failedUrl: 'https://dnt-4pm.herokuapp.com/api/store/paymentstatus',
+    successUrl: 'https://firstcart.herokuapp.com/api/store/paymentstatus',
+    failedUrl: 'https://firstcart.herokuapp.com/api/store/paymentstatus',
     key: 'gtKFFx',
     salt: 'eCwWELxi',
 };

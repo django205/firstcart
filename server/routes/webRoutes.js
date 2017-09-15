@@ -15,7 +15,7 @@ if (obj != null) {
     res.end("Payment Failed");
 }
 }).get("*", (req, res) => { //angular route
-res.sendFile(path.join(__dirname, '../../client/index.html'));
+res.sendFile(path.join(__dirname, '../../client/src/index.html'));
 });
 
 module.exports = router;
